@@ -1,0 +1,19 @@
+#container {
+	margin: auto;
+	width: 960px;
+	height: 960px;
+}
+
+.square {
+	width: 10px;
+	height: 10px;
+	border: 1px solid black;
+}
+
+.row {
+	display: inline-block;
+}
+
+button {
+	margin: 10px auto;
+}
